@@ -6,6 +6,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Reverse",
+      "request": "launch",
+      "mainClass": "Maths.Reverse",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "CountDigits",
+      "request": "launch",
+      "mainClass": "Maths.CountDigits",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "Abstractioninterface",
+      "request": "launch",
+      "mainClass": "OOPS.Abstractioninterface",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "Alphabets",
+      "request": "launch",
+      "mainClass": "Alphabets",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "Unique",
+      "request": "launch",
+      "mainClass": "Unique",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "Pyramid",
+      "request": "launch",
+      "mainClass": "Pyramid",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "numberpyramid",
+      "request": "launch",
+      "mainClass": "numberpyramid",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "RemoveDupsInSortedArray",
+      "request": "launch",
+      "mainClass": "RemoveDupsInSortedArray",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "SortedArray",
+      "request": "launch",
+      "mainClass": "SortedArray",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "SecondLargestAndSmallest",
+      "request": "launch",
+      "mainClass": "SecondLargestAndSmallest",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "LargestElement",
+      "request": "launch",
+      "mainClass": "LargestElement",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
       "name": "nonparameter",
       "request": "launch",
       "mainClass": "classconstructor.nonparameter",
