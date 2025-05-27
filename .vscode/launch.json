@@ -6,6 +6,209 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MaxSumSubArray",
+      "request": "launch",
+      "mainClass": "MaxSumSubArray",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "ElementOccuranceMore",
+      "request": "launch",
+      "mainClass": "ElementOccuranceMore",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "TwoSum",
+      "request": "launch",
+      "mainClass": "TwoSum",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "LongestSubArrayWithSum",
+      "request": "launch",
+      "mainClass": "LongestSubArrayWithSum",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "OccuredOnce",
+      "request": "launch",
+      "mainClass": "OccuredOnce",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "MissingNum",
+      "request": "launch",
+      "mainClass": "MissingNum",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "Intersection",
+      "request": "launch",
+      "mainClass": "Intersection",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "UnionOfArrays",
+      "request": "launch",
+      "mainClass": "UnionOfArrays",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "MoveAllZeroToEnd",
+      "request": "launch",
+      "mainClass": "MoveAllZeroToEnd",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "MergeSort",
+      "request": "launch",
+      "mainClass": "Sort.MergeSort",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "insertionsort",
+      "request": "launch",
+      "mainClass": "Sort.insertionsort",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "bubble",
+      "request": "launch",
+      "mainClass": "Sort.bubble",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "bubblesort",
+      "request": "launch",
+      "mainClass": "Sort.bubblesort",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "selectionsort",
+      "request": "launch",
+      "mainClass": "Sort.selectionsort",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "max_leastfrequency",
+      "request": "launch",
+      "mainClass": "Hash.max_leastfrequency",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "charpresentinstring",
+      "request": "launch",
+      "mainClass": "Hash.charpresentinstring",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "numberpresentinarr",
+      "request": "launch",
+      "mainClass": "Hash.numberpresentinarr",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "numberpresent",
+      "request": "launch",
+      "mainClass": "Hash.numberpresent",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "Fibonacci",
+      "request": "launch",
+      "mainClass": "Recursion.Fibonacci",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "StringPalindrome",
+      "request": "launch",
+      "mainClass": "Recursion.StringPalindrome",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "SwapArray",
+      "request": "launch",
+      "mainClass": "Recursion.SwapArray",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "sum",
+      "request": "launch",
+      "mainClass": "Recursion.sum",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "printtoN",
+      "request": "launch",
+      "mainClass": "Recursion.printtoN",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "Name",
+      "request": "launch",
+      "mainClass": "Recursion.Name",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "gcd",
+      "request": "launch",
+      "mainClass": "Maths.gcd",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "prime",
+      "request": "launch",
+      "mainClass": "Maths.prime",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "Divisors",
+      "request": "launch",
+      "mainClass": "Maths.Divisors",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "Armstrong",
+      "request": "launch",
+      "mainClass": "Maths.Armstrong",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "Palindrome",
+      "request": "launch",
+      "mainClass": "Maths.Palindrome",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
       "name": "Reverse",
       "request": "launch",
       "mainClass": "Maths.Reverse",
