@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FrogJump1and2steps",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.FrogJump1and2steps",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "ClimbingStairs",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.ClimbingStairs",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "Fibonacci",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.Fibonacci",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
       "name": "MaxSumSubArray",
       "request": "launch",
       "mainClass": "MaxSumSubArray",
