@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "UniquePaths2",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.UniquePaths2",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
+      "name": "UniquePaths",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.UniquePaths",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
       "name": "NinjaTraining",
       "request": "launch",
       "mainClass": "DynamicProgramming.NinjaTraining",

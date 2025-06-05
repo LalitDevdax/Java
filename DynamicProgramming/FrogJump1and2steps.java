@@ -7,7 +7,6 @@ public class FrogJump1and2steps {
     private static int f(int ind, int[] heights, int[] dp) {
         if (ind == 0)
             return 0;
-
         if (dp[ind] != -1)
             return dp[ind];
 
