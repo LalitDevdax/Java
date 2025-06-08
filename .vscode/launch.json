@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "UniquePaths3",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.UniquePaths3",
+      "projectName": "Java-DSA_ff0f2900"
+    },
+    {
+      "type": "java",
       "name": "UniquePaths2",
       "request": "launch",
       "mainClass": "DynamicProgramming.UniquePaths2",
